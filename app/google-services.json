@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483355728913",
+    "project_id": "openheartfirebase",
+    "storage_bucket": "openheartfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483355728913:android:744a1d85af7a72d0b665b0",
+        "android_client_info": {
+          "package_name": "com.example.openheart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483355728913-h8r259q2cfa14e8bel97e6homffi9beh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP9HwT9NM_MEOlspt0l-IBiTkeRtgwD30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483355728913-h8r259q2cfa14e8bel97e6homffi9beh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
