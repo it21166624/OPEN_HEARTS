@@ -1,11 +1,12 @@
-package com.example.openheart
+package com.example.openheart.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import com.example.openheart.R.id.button9
+import com.example.openheart.R
+
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 
@@ -20,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var firebase: DatabaseReference = FirebaseDatabase.getInstance().getReference()
+        var firebase: DatabaseReference = FirebaseDatabase.getInstance().getReference("location")
 
         addData = findViewById(R.id.button10)
         fetchData = findViewById(R.id.button11)
@@ -31,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         fetchData.setOnClickListener {
-            val intent2 = Intent(this, AddNewLocation::class.java)
+            val intent2 = Intent(this, Fetching_Data::class.java)
             startActivity(intent2)
 
 
