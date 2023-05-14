@@ -5,7 +5,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ViewLocation">
+    tools:context=".activities.ViewLocation">
+
+
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/LName"
@@ -13,6 +15,7 @@
         android:layout_height="590dp"
         android:layout_marginTop="100dp"
         android:layout_marginBottom="10dp"
+        android:backgroundTint="#FFEDED"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.491"
@@ -32,6 +35,8 @@
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="80dp"
         tools:layout_editor_absoluteY="331dp" />
+
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
