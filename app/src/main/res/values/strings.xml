@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mad Project</string>
+    <string name="title_activity_home1">Home_1</string>
+<string name="prompt_email">Email</string>
+<string name="prompt_password">Password</string>
+<string name="action_sign_in">Sign in or register</string>
+<string name="action_sign_in_short">Sign in</string>
+<string name="welcome">"Welcome !"</string>
+<string name="invalid_username">Not a valid username</string>
+<string name="invalid_password">Password must be >5 characters</string>
+<string name="login_failed">"Login failed"</string>
+<string name="hintToname">Email</string>
+<string name="hintValuename" />
+<string name="hintValuename1">Email</string>
+<string name="hintValuename2">Password</string>
+<string name="hintValuename3">Organization Name</string>
+<string name="hintValuename4">Email</string>
+<string name="hintValuename5">Password</string>
+<string name="hintValue6">Email</string>
+<string name="hintValue7">Password</string>
+<string name="content">Adminb</string>
+<string name="content1">Email\n</string>
+<string name="content2">Email</string>
+<string name="content3">Name</string>
+<string name="content6">Phone\n</string>
+<string name="content7">Phone</string>
+</resources>
