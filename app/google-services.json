@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270700707979",
+    "project_id": "amaya-f673d",
+    "storage_bucket": "amaya-f673d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270700707979:android:e141803aa294de8d79148e",
+        "android_client_info": {
+          "package_name": "com.example.amaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270700707979-e12t15oedkcnf6nfq2kqmungjgbfg1fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbEN0F5dsE75Ea9_7krYm2TZarv0XFy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270700707979-e12t15oedkcnf6nfq2kqmungjgbfg1fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
