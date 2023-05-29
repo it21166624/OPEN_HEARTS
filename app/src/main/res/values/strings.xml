@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amaya</string>
+    <string name="organizations">Organizations</string>
+    <string name="content">image5</string>
+    <string name="content1">image6</string>
+    <string name="content2">image7</string>
+    <string name="content3">image8</string>
+    <string name="content7">image9</string>
+    <string name="next" />
+    <string name="previous" />
+</resources>
